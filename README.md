@@ -1,2 +1,5 @@
-#Projects
-THis repository contains my training projects
+# Projects
+This repository contains my training projects
+
+## Assignments
+I shall also upload my assignments here
